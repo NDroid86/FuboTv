@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FuboTv</string>
+    <string name="add">Add Event</string>
+    <string name="meeting_name">Meeting Name</string>
+    <string name="meeting_start_time">Start Time</string>
+    <string name="meeting_end_time">End Time</string>
+    <string name="no_data_available">No meetings found. Click \u002B button to add meeting.</string>
+</resources>
